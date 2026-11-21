@@ -1,0 +1,42 @@
+.IconBtn{
+    transition: all 0.2s !important;
+}
+.card{
+    transition: all 0.2s !important;
+}
+
+.card:hover{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    box-shadow: 0 7px 7px rgba( 0,0,0,0.4);
+
+}
+.IconBtn:hover{
+background-color: #c5c5c5 !important;
+box-shadow: 0 7px 7px rgba( 0,0,0,0.4);
+}
+@font-face {
+    font-family: lato;
+    src: url(/public/fonts/Lato-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: lato;
+    src: url(/public/fonts/Lato-Black.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: lato;
+    src: url(/public/fonts/Lato-BlackItalic.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: lato;
+    src: url(/public/fonts/Lato-BoldItalic.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: lato;
+    src: url(/public/fonts/Lato-Light.ttf);
+    font-weight: 100;
+}
