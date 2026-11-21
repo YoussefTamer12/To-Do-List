@@ -114,7 +114,7 @@ export default function DoList() {
 
                 <CardContent sx={{
                     maxHeight: "75vh",
-                    overflowY: "auto"
+                    overflow: "auto"
                 }}>
 
                     <Typography
